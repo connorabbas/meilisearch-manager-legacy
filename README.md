@@ -5,7 +5,7 @@ A modern web-based UI for managing Meilisearch instances.
 > [!WARNING]
 > This repository is no longer maintained.  
 > It has been rewritten as a Nuxt application.
-> Check out the new version: [connorabbas/meilisearch-manager-next](https://github.com/connorabbas/meilisearch-manager-next)
+> Check out the new version: [connorabbas/meilisearch-manager-next](https://github.com/connorabbas/meilisearch-manager)
 
 ## Features
 
